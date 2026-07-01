@@ -92,6 +92,7 @@
 - [Django Cache Backend (Redis)](https://github.com/jazzband/django-redis) – Django cache integration.
 - [Flask-Caching + Redis](https://github.com/sh4nks/flask-caching) – Redis back-end for Flask caching.
 - [Sidekiq](https://github.com/sidekiq/sidekiq) – Ruby background jobs using Redis.
+- [@stitchapi/redis](https://github.com/rejifald/StitchAPI/tree/main/packages/redis) – Redis-backed store for StitchAPI that shares rate-limit counters and auth sessions across workers.
 
 ## Learning Resources
 
