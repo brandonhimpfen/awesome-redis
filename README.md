@@ -87,6 +87,7 @@
 ## Caching & Queues
 
 - [BullMQ](https://github.com/taskforcesh/bullmq) – Redis-backed job queue for Node.js.
+- [@piperadar/bullmq](https://github.com/pipe-radar/sdk-bullmq) – Failure grouping, latency tracking, and alerts for BullMQ workers. Hooks QueueEvents in one line; MIT-licensed; job payloads never leave the process.
 - [Bull](https://github.com/OptimalBits/bull) – Long-standing Redis-based queue.
 - [RQ (Redis Queue)](https://github.com/rq/rq) – Simple Python job queue.
 - [Django Cache Backend (Redis)](https://github.com/jazzband/django-redis) – Django cache integration.
