@@ -100,6 +100,7 @@
 - [Redis Streams Guide](https://redis.io/docs/data-types/streams/) – Deep dive into Streams.
 - [Redis Search Tutorials](https://redis.io/docs/stack/search/) – Full-text and vector search tutorials.
 - [Redis Use Cases](https://redis.io/docs/latest/use/) – Caching, rate limiting, message queues, leaderboards, ML.
+- [Redis Memory Calculator](https://amanksingh.com/tools/redis-memory-calculator) – Free tool to estimate Redis RAM usage by data type, including per-key overhead and allocator fragmentation.
 
 ## Related Awesome Lists
 
