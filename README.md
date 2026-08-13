@@ -70,6 +70,7 @@
 - [RedisInsight](https://github.com/redis/redisinsight) – Official GUI for visualizing data, performance, and queries.
 - [Medis](https://github.com/luin/medis) – Modern, open-source Redis GUI client.
 - [Another Redis Desktop Manager](https://github.com/qishibo/AnotherRedisDesktopManager) – Fast, cross-platform desktop manager.
+- [Mongrel](https://www.visorcraft.com/mongrel) – Cross-platform desktop workbench with binary-safe Redis/Valkey support.
 
 ## CLI Tools
 
