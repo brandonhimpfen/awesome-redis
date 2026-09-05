@@ -1,4 +1,4 @@
-# Awesome Redis [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/awesomelistsio/awesome)
+# Awesome Redis [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/brandonhimpfen/awesome-lists)
 
 [![GitHub Sponsors](https://srv-cdn.himpfen.io/badges/github/github-flat.svg)](https://github.com/sponsors/awesomelistsio) &nbsp; 
 [![Ko-Fi](https://srv-cdn.himpfen.io/badges/kofi/kofi-flat.svg)](https://ko-fi.com/awesomelists) &nbsp; 
@@ -103,10 +103,10 @@
 
 ## Related Awesome Lists
 
-- [Awesome Databases](https://github.com/awesomelistsio/awesome-db)
-- [Awesome Vector Search](https://github.com/awesomelistsio/awesome-vector-search)
-- [Awesome SQL](https://github.com/awesomelistsio/awesome-sql)
-- [Awesome Self-Hosted](https://github.com/awesomelistsio/awesome-selfhosted)
+- [Awesome Databases](https://github.com/brandonhimpfen/awesome-db)
+- [Awesome Vector Search](https://github.com/brandonhimpfen/awesome-vector-search)
+- [Awesome SQL](https://github.com/brandonhimpfen/awesome-sql)
+- [Awesome Self-Hosted](https://github.com/brandonhimpfen/awesome-selfhosted)
 
 ## Contribute
 
