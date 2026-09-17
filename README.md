@@ -50,6 +50,10 @@
 - [Jedis](https://github.com/redis/jedis) – Java Redis client.
 - [Lettuce](https://github.com/lettuce-io/lettuce-core) – Scalable Java Redis client with async support.
 
+### C# / .NET
+- [StackExchange.Redis](https://github.com/StackExchange/StackExchange.Redis) – General-purpose .NET client for Redis.
+- [RedisNearCache](https://github.com/magna-nz/redis-near-cache) – Client-side caching for StackExchange.Redis using Redis 6+ `CLIENT TRACKING`, which StackExchange.Redis doesn't implement itself.
+
 ## Modules & Extensions
 
 - [RedisJSON](https://github.com/RedisJSON/RedisJSON) – Native JSON ingestion, querying, and storage.
