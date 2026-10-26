@@ -71,6 +71,7 @@
 - [RedisInsight](https://github.com/redis/redisinsight) – Official GUI for visualizing data, performance, and queries.
 - [Medis](https://github.com/luin/medis) – Modern, open-source Redis GUI client.
 - [Another Redis Desktop Manager](https://github.com/qishibo/AnotherRedisDesktopManager) – Fast, cross-platform desktop manager.
+- [SQLly](https://sqlly.app/) – Cross-platform SQL client with IntelliSense and schema intelligence, supporting Redis alongside PostgreSQL, MySQL, MariaDB, SQL Server, SQLite and DuckDB.
 
 ## CLI Tools
 
